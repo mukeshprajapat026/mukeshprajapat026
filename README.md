@@ -1,23 +1,17 @@
 # Hi 👋 I'm Mukesh Prajapat
 
-🚀 **Laravel | Shopify | API Integration | WordPress Developer**
+Laravel | Shopify | API Integration | WordPress Developer
 
-I am a backend-focused web developer specializing in **Laravel applications, Shopify integrations, WordPress plugins, and API automation systems**.
-I enjoy building scalable systems that automate workflows and integrate multiple platforms.
+## 📊 GitHub Stats
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshprajapat026&show_icons=true&theme=default)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshprajapat026&layout=compact)
 
 ## 💻 Tech Stack
 
-* **Backend:** PHP, Laravel
-* **CMS:** WordPress
-* **E-commerce:** Shopify API
-* **Automation:** Zapier, Pabbly
-* **APIs:** REST API Integration
-* **Communication APIs:** Twilio
-* **Database:** MySQL, MongoDB
-* **Tools:** Git, GitHub, Postman, Figma
-* **Frontend:** HTML, CSS, JavaScript, React
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,php,wordpress,react,nodejs,mongodb,mysql,figma,git,github,js,html,css" />
+</p>
 
 ---
 
