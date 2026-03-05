@@ -60,6 +60,12 @@ LinkedIn
 GitHub
 👉 https://github.com/mukeshprajapat026
 
+Upwork
+👉 https://www.upwork.com/freelancers/mukeshkumarp2
+
+Freelancer
+👉 https://www.freelancer.com/u/mukesh459
+
 ---
 
 ⭐ *Always open to collaborating on interesting projects and automation systems.*
