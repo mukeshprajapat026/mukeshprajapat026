@@ -10,7 +10,7 @@ Laravel | Shopify | API Integration | WordPress Developer
 
 ## 💻 Tech Stack
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=laravel,php,wordpress,react,nodejs,mongodb,mysql,figma,git,github,js,html,css" />
 </p>
 
