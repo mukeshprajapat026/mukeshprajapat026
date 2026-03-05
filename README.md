@@ -6,9 +6,9 @@ Laravel | Shopify | API Integration | WordPress Developer
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukeshprajapat026&show_icons=true&include_all_commits=true&count_private=true)
+![Mukesh GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mukeshprajapat026&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshprajapat026&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mukeshprajapat026&layout=compact)
 
 ## 💻 Tech Stack
 
