@@ -1,9 +1,12 @@
 # Hi 👋 I'm Mukesh Prajapat
 
+![Profile Views](https://komarev.com/ghpvc/?username=mukeshprajapat026)
+
 Laravel | Shopify | API Integration | WordPress Developer
 
 ## 📊 GitHub Stats
-![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshprajapat026&show_icons=true&theme=default)
+
+![Mukesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mukeshprajapat026&show_icons=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mukeshprajapat026&layout=compact)
 
