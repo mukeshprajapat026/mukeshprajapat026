@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mukeshprajapat026)
 
-Laravel & Shopify Developer | API Integrations | Automation Systems | WordPress
+Full Stack Developer | Laravel • Shopify • API Integrations • Automation Systems
 
 Building scalable web applications, automation systems,
 and API integrations for global clients.
@@ -53,7 +53,7 @@ Enterprise-grade Laravel system supporting **multi-channel data synchronization,
 
 ### 🎟 Event Ticket Booking Platform
 
-Online ticket booking system with **payment gateway integration, QR code ticket generation, and event staff verification**.
+Event ticket booking platform with **payment gateway integration, QR code tickets, and event staff check-in dashboard**.
 
 ---
 
@@ -65,6 +65,15 @@ Online ticket booking system with **payment gateway integration, QR code ticket 
 
 Portfolio Website
 👉 https://mukeshprajapat026.github.io
+
+---
+
+📊 What I Build
+• Shopify Automation Systems
+• Laravel Backend Platforms
+• API Integrations
+• Booking Platforms
+• Workflow Automation Tools
 
 ---
 
