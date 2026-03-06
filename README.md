@@ -29,7 +29,7 @@ and API integrations for global clients.
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 ### 🐶 MyPetPrints – Shopify Artwork Automation
 
@@ -57,7 +57,7 @@ Online ticket booking system with **payment gateway integration, QR code ticket 
 
 ---
 
-## 🚀 Portfolio Projects
+## 🌐 Portfolio Projects
 • MyPetPrints Automation
 • Event Ticket Booking Platform
 • Twilio Tutor Communication Platform
@@ -68,7 +68,7 @@ Portfolio Website
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
 LinkedIn
 👉 https://linkedin.com/in/mukesh-prajapat-817b9867
@@ -84,4 +84,4 @@ Freelancer
 
 ---
 
-⭐ *Always open to collaborating on interesting projects and automation systems.*
+⭐ *Open to freelance projects and collaborations in Laravel, Shopify, and API automation systems.*
