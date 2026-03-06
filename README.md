@@ -2,7 +2,10 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mukeshprajapat026)
 
-Laravel | Shopify | API Integration | WordPress Developer
+Laravel & Shopify Developer | API Integrations | Automation Systems | WordPress
+
+Building scalable web applications, automation systems,
+and API integrations for global clients.
 
 ## 📊 GitHub Stats
 
@@ -16,11 +19,21 @@ Laravel | Shopify | API Integration | WordPress Developer
 
 ---
 
+## 💼 Core Expertise
+• Shopify Development
+• Laravel Application Development
+• API Integrations (Stripe, Twilio, Trello, Amazon SP API)
+• Automation Workflows
+• WordPress Development
+• Custom Backend Systems
+
+---
+
 ## 📌 Featured Projects
 
-### 🐶 MyPetPrints – Shopify Artwork Approval Automation
+### 🐶 MyPetPrints – Shopify Artwork Automation
 
-Automated Shopify artwork approval workflow integrating **PHP backend, Trello API, webhooks, cron jobs, and email automation**.
+Automated Shopify artwork approval workflow using **PHP backend, Trello API, Zapier, and cron-based automation**.
 
 ### 📦 OrderFlo Integration System
 
@@ -38,9 +51,17 @@ A **WordPress plugin backend** powering a Flutter salon booking mobile applicati
 
 Enterprise-grade Laravel system supporting **multi-channel data synchronization, authentication, and webhook processing**.
 
+### 🎟 Event Ticket Booking Platform
+
+Online ticket booking system with **payment gateway integration, QR code ticket generation, and event staff verification**.
+
 ---
 
-## 🌐 Portfolio
+## 🚀 Portfolio Projects
+• MyPetPrints Automation
+• Event Ticket Booking Platform
+• Twilio Tutor Communication Platform
+• Salon Booking WordPress API
 
 Portfolio Website
 👉 https://mukeshprajapat026.github.io
