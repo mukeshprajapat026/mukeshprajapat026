@@ -32,28 +32,32 @@ and API integrations for global clients.
 ## 🚀 Featured Projects
 
 ### 🐶 MyPetPrints – Shopify Artwork Automation
+Automated Shopify artwork approval workflow using **PHP backend, Trello API, Zapier integrations, and cron-based automation** to streamline customer design approvals before order fulfillment.
 
-Automated Shopify artwork approval workflow using **PHP backend, Trello API, Zapier, and cron-based automation**.
-
-### 📦 OrderFlo Integration System
-
-Custom **OrderFlo integration platform** designed for automated order syncing, tracking updates, and workflow optimization.
-
-### 📞 Twilio Tutor Communication Platform
-
-A **Twilio-based tutor-student communication platform** supporting automated SMS notifications and real-time updates.
-
-### 💇 Salon Booking WordPress API
-
-A **WordPress plugin backend** powering a Flutter salon booking mobile application with **REST APIs, booking management, reviews, and salon owner dashboard**.
+---
 
 ### 🔗 Laravel Multi-Channel API Integration
+Enterprise-grade **Laravel integration system** supporting multi-channel product and order synchronization, secure authentication, and webhook-based event processing across platforms.
 
-Enterprise-grade Laravel system supporting **multi-channel data synchronization, authentication, and webhook processing**.
+---
 
 ### 🎟 Event Ticket Booking Platform
+Online **event ticket booking platform** featuring payment gateway integration, automated ticket generation, **QR code-based ticket verification**, and event staff check-in dashboard.
 
-Event ticket booking platform with **payment gateway integration, QR code tickets, and event staff check-in dashboard**.
+---
+
+### 📞 Twilio Tutor Communication Platform
+A **Twilio-powered tutor–student communication platform** enabling automated SMS notifications, secure messaging, and real-time updates for lesson scheduling and communication.
+
+---
+
+### 🚚 Shopify Custom Shipping Integration
+Custom **Shopify shipping rate calculation system** using Carrier Service API and MatchShip API to dynamically calculate shipping costs based on product rules, ZIP codes, and order conditions.
+
+---
+
+### 📧 Cold Email Campaign Infrastructure
+Scalable **cold email automation system** with domain warm-up, SPF/DKIM/DMARC configuration, inbox rotation, and automated outreach campaigns using tools like Instantly and SMTP services.
 
 ---
 
