@@ -9,7 +9,7 @@ and API integrations for global clients.
 
 ## 💻 Tech Stack
 
-<p align="center">
+<p>
 <img src="https://skillicons.dev/icons?i=laravel,php,wordpress,react,nodejs,mongodb,mysql,figma,git,github,js,html,css" />
 </p>
 
