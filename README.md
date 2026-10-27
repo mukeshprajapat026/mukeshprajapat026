@@ -7,10 +7,6 @@ Full Stack Developer | Laravel • Shopify • API Integrations • Automation S
 Building scalable web applications, automation systems,
 and API integrations for global clients.
 
-## 📊 GitHub Stats
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mukeshprajapat026)
-
 ## 💻 Tech Stack
 
 <p align="center">
